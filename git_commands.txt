@@ -1,0 +1,18 @@
+
+git init=initializes
+git status=shows the status of files
+git add filename=starts tracking
+git add .=adds allfiles in the folder
+git commit -m "commit message"=commits with a message
+git log=shows all commits
+git commit -a -m=commits for all files
+git diff =shows the changes made
+git checkout filename=undos the changes
+git remote add origin "link"=adds a remote repository
+git push -u origin master=pushes all changes to github with branch set as master
+git rm=removes files from git and from file system
+git rm --cached -r =removes file from git but not from file system
+git clone 'link'=downloads all files
+git branch=shows all branches
+git branch new-branch=adds new branch
+git checkout branchname=switches to a different branch
