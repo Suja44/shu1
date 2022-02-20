@@ -18,3 +18,5 @@ git branch new-branch=adds new branch
 git checkout branchname=switches to a different branch
 
 //added this line
+
+//addes this line for the second time
